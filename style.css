@@ -1,0 +1,32 @@
+body {
+  font-family: sans-serif;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* Site Header */
+.site-header {
+  text-align: center;
+}
+
+.site-header__logo {
+  margin: 2rem auto;
+}
+
+/* Hours */
+.hours {
+  text-align: center;
+}
+
+.hours ul {
+  list-style: none;
+  padding: 0;
+}
+
+.hours li {
+  margin-bottom: 1rem;
+}
