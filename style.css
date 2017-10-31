@@ -17,6 +17,15 @@ img {
   margin: 2rem auto;
 }
 
+/* Address */
+.address {
+  text-align: center;
+}
+
+.address address {
+  font-style: normal;
+}
+
 /* Hours */
 .hours {
   text-align: center;
