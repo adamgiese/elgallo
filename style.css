@@ -8,6 +8,10 @@ img {
   display: block;
 }
 
+a {
+  color: #2196f3;
+}
+
 /* Site Header */
 .site-header {
   text-align: center;
@@ -24,6 +28,11 @@ img {
 
 .address address {
   font-style: normal;
+}
+
+/* phone */
+.phone {
+  text-align: center;
 }
 
 /* Hours */
